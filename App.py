@@ -3,7 +3,7 @@ import pandas as pd
 from PIL import Image
 from io import BytesIO
 # from main import main, cohorts, sku_update
-from DataProcessing.processing import processing_files
+# from DataProcessing.processing import processing_files
 
 # Set wide mode layout
 st.set_page_config(page_title="ForHumans Data Drill", layout="wide")
